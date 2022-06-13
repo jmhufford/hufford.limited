@@ -4,4 +4,5 @@ To access internal services connect to the vpn
 
 ### Public Services
 
-- [jellyfin](http://jellyfin.hufford.limited)
+- [jellyfin](https://jellyfin.hufford.limited)
+- [mealie](https://mealie.hufford.limited)
